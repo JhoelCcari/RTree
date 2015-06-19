@@ -1,8 +1,10 @@
 #include<iostream>
 
 int main()
-{
+{ int n;
   std::cout << "Hello world bitches .!! " << std::endl;
+  std::cin>>n;
+  std::cout<<n;
   
   return 0;
 }
